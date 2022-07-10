@@ -3,6 +3,7 @@
   <head>
     <meta charset="utf-8">
     <title>Segundo intento</title>
+    <link href="https://github.com/JMGL27/Full-Stack-open-2022/blob/main/part0/style.css" rel="stylesheet" type="text/css">
   </head>
   <body>
     <h1>Mozilla Firefox</h1>
