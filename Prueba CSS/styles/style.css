@@ -1,9 +1,7 @@
 html {
   font-family: 'Open Sans', cursive;
   color: rgb(255, 255, 255);
-  background-color: #00539F;
-  font-weight: 50px;
-  
+  background-color: #00539F;  
 }
 body{
   width: 600px;
@@ -26,6 +24,7 @@ p, li {
   font-size: 15px;
   line-height: 2;
   letter-spacing: 1px;
+  font-weight: 500;
 
 }
 
