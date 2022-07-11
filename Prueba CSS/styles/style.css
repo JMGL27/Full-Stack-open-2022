@@ -8,8 +8,6 @@ body{
   margin: auto;
   border: 5px solid black;
   background-color: crimson;
-
-
 }
 
 h1 {
@@ -24,8 +22,6 @@ p, li {
   font-size: 15px;
   line-height: 2;
   letter-spacing: 1px;
-  font-weight: 500px;
-
 }
 
 img {
