@@ -6,14 +6,19 @@ html {
 
 }
 body{
-  width: 10px;
+  width: 600px;
+  margin: auto;
+  border: 5px solid black;
 
- 
+
 }
 
 h1 {
   font-size: 50px;
   text-align: center;
+  margin: auto;
+  padding: 20px;
+  text-shadow: 10px 5px 5px black;
 }
 
 p, li {
@@ -21,4 +26,9 @@ p, li {
   line-height: 2;
   letter-spacing: 1px;
 
+}
+image{
+  display: block;
+  margin: auto;
+  
 }
