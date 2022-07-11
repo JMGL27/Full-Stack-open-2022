@@ -1,14 +1,15 @@
 html {
   font-family: 'Open Sans', cursive;
   color: rgb(255, 255, 255);
-  size: 15px;
   background-color: #00539F;
-
+  font-weight: 50px;
+  
 }
 body{
   width: 600px;
   margin: auto;
   border: 5px solid black;
+  background-color: crimson;
 
 
 }
@@ -27,8 +28,9 @@ p, li {
   letter-spacing: 1px;
 
 }
-image {
+
+img {
   display: block;
   margin: 0 auto;
-
+  width: 350px;
 }
