@@ -6,8 +6,8 @@ html {
 body{
   width: 600px;
   margin: auto;
-  border: 5px solid black;
-  background-color: crimson;
+  border: 5px solid rgb(0, 0, 0);
+  background-color: rgb(51, 143, 86);
 }
 
 h1 {
